@@ -39,8 +39,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Pink_snapper_NB_W_0.png",
                 "alt": "Pink snapper",
                 "title": "Pink snapper"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -88,8 +87,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Hake_White_NB_W_0.png",
                 "alt": "Illustration of white hake. Credit: Jack Hornady.",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -137,8 +135,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Atlantic-chub-mackerel-FNL_NB_W.png",
                 "alt": "Illustration of Atlantic chub mackerel",
                 "title": "Atlantic chub mackerel"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -146,7 +143,7 @@
         "pk": 3,
         "fields": {
             "location": "<ul>\n<li>Shortfin squid inhabits the continental shelf and slope waters of the Northwest Atlantic Ocean, from Newfoundland to the central east coast of Florida.</li>\n<li>In the northwest Atlantic Ocean, shortfin squid are most often caught along the continental shelf break in depths between 150 to 275 meters.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "Shortfin Squid",
             "scientific_name": "Illex illecebrosus",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -160,8 +157,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Squid_Illex_NB_W.png",
                 "alt": "shortfin squid",
                 "title": "Shortfin Squid"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -209,8 +205,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Lobster_American_NB_Web.png",
                 "alt": "American Lobster",
                 "title": "American Lobster"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -218,7 +213,7 @@
         "pk": 5,
         "fields": {
             "location": "<ul>\n<li>Yellowtail rockfish are found along the Pacific coast of North America and range from Kodiak Island, Alaska to Baja California, Mexico.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Yellowtail Rockfish",
             "scientific_name": "Sebastes flavidus",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -232,8 +227,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Rockfish_Yellowtail_NB_W.png",
                 "alt": "Yellowtail rockfish",
                 "title": "Yellowtail rockfish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -255,8 +249,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Bocaccio_NB_W.png",
                 "alt": "Illustration of a Bocaccio rockfish.",
                 "title": "Bocaccio rockfish."
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -282,8 +275,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Kelp_Sugar_NB_W.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -321,8 +313,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/sablefish.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -365,8 +356,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic-halibut-illustration.png",
                 "alt": "Illustration of Atlantic Halibut.",
                 "title": "Illustration of Atlantic Halibut."
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -374,7 +364,7 @@
         "pk": 10,
         "fields": {
             "location": "<ul>\n<li>Shortspine thornyhead are found from the Bering Sea to Baja California, Mexico.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Shortspine Thornyhead",
             "scientific_name": "Sebastolobus alascanus",
             "noaa_fisheries_region": "West Coast",
@@ -414,8 +404,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/shortspine-thornyhead-illustration.png",
                 "alt": "Illustration of shortspine thornyhead.",
                 "title": "Illustration of shortspine thornyhead."
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -423,7 +412,7 @@
         "pk": 11,
         "fields": {
             "location": "<ul>\n<li>Canary rockfish are found between Punta Colnett, Baja California, and the Western Gulf of Alaska. Within this range, canary rockfish are most common off the coast of central Oregon.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Canary Rockfish",
             "scientific_name": "Sebastes pinniger",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -463,8 +452,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/canary%20rockfish.png",
                 "alt": "Canary rockfish illustration.",
                 "title": "Canary rockfish illustration."
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -502,8 +490,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/black-grouper-illustration.png",
                 "alt": "black grouper illustration",
                 "title": "black grouper illustration"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -511,7 +498,7 @@
         "pk": 13,
         "fields": {
             "location": "<p>Striped marlin live throughout tropical and sub-tropical waters of the Pacific and Indian Oceans.</p>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "Striped Marlin",
             "scientific_name": "Kajikia audax",
             "noaa_fisheries_region": "West Coast, Pacific Islands",
@@ -536,8 +523,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/striped-marlin-illustration.png",
                 "alt": "Striped Marlin",
                 "title": "Striped Marlin"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -585,8 +571,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/blueline-tilefish-illustration_0.png",
                 "alt": "Illustration of Blueline Tilefish",
                 "title": "Illustration of Blueline Tilefish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -594,7 +579,7 @@
         "pk": 15,
         "fields": {
             "location": "<ul>\n<li>Red hake are found in the Northwest Atlantic Ocean and range primarily from Newfoundland to North Carolina.</li>\n<li>They are most abundant from the western Gulf of Maine through Southern New England waters.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Red Hake",
             "scientific_name": "Urophycis chuss",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -634,8 +619,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/red-hake-illustration-formatted.png",
                 "alt": "Red Hake",
                 "title": "Red Hake"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -643,7 +627,7 @@
         "pk": 16,
         "fields": {
             "location": "<ul>\n<li>Atlantic sharpnose sharks are commonly found in the western Atlantic from New Brunswick, Canada, through the Gulf of Mexico, and are commonly caught in U.S. waters from Virginia to Texas.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Atlantic Sharpnose Shark",
             "scientific_name": "Rhizoprionodon terraenovae",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -678,8 +662,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/Atlantic_Sharpnosed_Shark_NB_W_smaller_0.png",
                 "alt": "Atlantic Sharpnose Shark",
                 "title": "Atlantic Sharpnose Shark"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -687,7 +670,7 @@
         "pk": 17,
         "fields": {
             "location": "<ul>\n<li>Southeastern Alaska to Baja California, Mexico.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Pacific Sardine",
             "scientific_name": "Sardinops sagax caerulea",
             "noaa_fisheries_region": "West Coast",
@@ -727,8 +710,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pacific_sardine.png",
                 "alt": "Pacific sardine illustration.",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -771,8 +753,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pacific_oyster.png",
                 "alt": "Illustration of a Pacific Oyster",
                 "title": "Pacific Oyster"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -810,8 +791,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/hard_clam_northern_quahog.png",
                 "alt": "Illustration of a Hard Clam, also known as Northern Quahog",
                 "title": "Hard Clam/Northern Quahog"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -819,7 +799,7 @@
         "pk": 20,
         "fields": {
             "location": null,
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Geoduck ",
             "scientific_name": "Panopea generosa",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -854,8 +834,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/geoduck.png",
                 "alt": "Illustration of a Geoduck",
                 "title": "Geoduck"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -893,8 +872,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/eastern_oyster.png",
                 "alt": "Illustration of an Eastern Oyster",
                 "title": "Eastern Oyster"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -902,7 +880,7 @@
         "pk": 22,
         "fields": {
             "location": null,
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Blue Mussel",
             "scientific_name": "Mytilus edulis",
             "noaa_fisheries_region": "West Coast, Greater Atlantic, Southeast",
@@ -942,8 +920,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/blue_mussel.png",
                 "alt": "Illustration of a Blue Mussel",
                 "title": "Blue Mussel"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -965,8 +942,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_salmon.png",
                 "alt": "Illustration of an Atlantic Salmon.",
                 "title": "Atlantic Salmon"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1014,8 +990,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/butterfish.png",
                 "alt": "Illustration of a Butterfish",
                 "title": "Butterfish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1023,7 +998,7 @@
         "pk": 25,
         "fields": {
             "location": "<ul>\n<li>Winter skates range from the Gulf of Saint Lawrence in Canada to Cape Hatteras, North Carolina.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Winter Skate",
             "scientific_name": "Leucoraja ocellata",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -1053,8 +1028,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/winter_skate.png",
                 "alt": "Illustration of a Winter Skate",
                 "title": "Winter Skate"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1062,7 +1036,7 @@
         "pk": 26,
         "fields": {
             "location": "<ul>\n<li>Pink salmon are found on both sides of the North Pacific, from Alaska to Puget Sound in Washington State and from Russia to North Korea.</li>\n<li>In North America, they’re found from the Arctic coast in Alaska and territories in Canada to central California, although they do not reproduce in significant numbers south of Puget Sound.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Pink Salmon",
             "scientific_name": "Oncorhynchus gorbuscha",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -1102,8 +1076,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pink_salmon.png",
                 "alt": "Illustration of a Pink Salmon",
                 "title": "Pink Salmon"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1111,7 +1084,7 @@
         "pk": 27,
         "fields": {
             "location": "<ul>\n<li>Northern shrimp are found in the western North Atlantic from Maine to Massachusetts, but the bulk of the harvest comes from Maine. They are also found and harvested on the West Coast and in Alaska, as well as in Canada, Greenland, Iceland, and Norway.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Atlantic Northern Shrimp",
             "scientific_name": "Pandalus borealis",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -1151,8 +1124,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/northern_shrimp.png",
                 "alt": "An illustration of an Atlantic Northern Shrimp",
                 "title": "Atlantic Northern Shrimp"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1200,8 +1172,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/north_atlantic_swordfish_0.png",
                 "alt": "North pacific swordfish",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1209,7 +1180,7 @@
         "pk": 29,
         "fields": {
             "location": "<ul>\n<li>Atlantic mackerel are found on both sides of the North Atlantic Ocean, including in the Baltic Sea. In the western Atlantic, they’re found from Labrador to North Carolina.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Atlantic Mackerel",
             "scientific_name": "Scomber scombrus",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -1244,8 +1215,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_mackerel.png",
                 "alt": "Atlantic mackerel",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1253,7 +1223,7 @@
         "pk": 30,
         "fields": {
             "location": "<ul>\n<li>Bigeye tuna live in the tropical and warm temperate waters of the Atlantic, Pacific, and Indian Oceans.</li>\n<li>In the western Atlantic, they can be found from Southern Nova Scotia to Brazil.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Atlantic Bigeye Tuna",
             "scientific_name": "Thunnus obesus",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -1293,8 +1263,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_bigeye_tuna_0.png",
                 "alt": "Atlantic bigeye tuna",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1302,7 +1271,7 @@
         "pk": 31,
         "fields": {
             "location": "<ul>\n<li>Albacore tuna live in tropical and warm temperate waters in the Atlantic, Pacific, and Indian Oceans. In the Atlantic, they’re found from Nova Scotia to northern Argentina, and from Ireland to South Africa.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "North Atlantic Albacore Tuna",
             "scientific_name": "Thunnus alalunga ",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -1342,8 +1311,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_albacore_tuna_0.png",
                 "alt": "Atlantic albacore tuna",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1391,8 +1359,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/acadian_redfish.png",
                 "alt": "Acadian redfish",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1400,7 +1367,7 @@
         "pk": 33,
         "fields": {
             "location": "<ul>\n<li>Skipjack tuna are found in tropical, subtropical, and warm temperate waters of all oceans. In the western Atlantic, skipjack is found from Massachusetts to Brazil, including in the Gulf of Mexico and the Caribbean.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Atlantic Skipjack Tuna",
             "scientific_name": "Katsuwonus pelamis",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -1440,8 +1407,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_skipjack_tuna_0.png",
                 "alt": "Illustration of an Atlantic Skipjack Tuna",
                 "title": "Atlantic Skipjack Tuna"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1449,7 +1415,7 @@
         "pk": 34,
         "fields": {
             "location": "<ul>\n<li>Atlantic sea scallops are found in the Northwest Atlantic Ocean, from Newfoundland to Cape Hatteras, North Carolina.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Atlantic Sea Scallop",
             "scientific_name": "Placopecten magellanicus",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -1489,8 +1455,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_sea_scallop.png",
                 "alt": "Illustration of an Atlantic Sea Scallop",
                 "title": "Atlantic Sea Scallop"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1498,7 +1463,7 @@
         "pk": 35,
         "fields": {
             "location": "<ul>\n<li>Atlantic salmon are the only salmon native to the Atlantic Ocean.</li>\n<li>There are three groups of wild Atlantic salmon: North American, European, and Baltic. The North American group, including the Canadian and U.S. populations, was historically found from northern Quebec southeast to Newfoundland and southwest to Long Island Sound.</li>\n<li>In the United States, Atlantic salmon were once native to almost every river north of the Hudson River. Due to the effects of industrial and agricultural development (including habitat destruction, dams, and historic overfishing), most populations native to New England were eradicated. Now, the only native populations of Atlantic salmon in the United States are found in Maine.</li>\n</ul>\n<p><img alt=\"A map showing the geographic range of Altantic Salmon.\" height=\"495\" width=\"640\" class=\"media-element file-default\" data-delta=\"1\" typeof=\"foaf:Image\" src=\"https://www.fishwatch.gov/sites/default/files/atlantic_salmon_migration_route_large.jpg\" /></p>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "Atlantic Salmon",
             "scientific_name": "Salmo salar",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -1533,8 +1498,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_salmon.png",
                 "alt": "Illustration of an Atlantic Salmon.",
                 "title": "Atlantic Salmon"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1542,7 +1506,7 @@
         "pk": 36,
         "fields": {
             "location": "<ul>\n<li>Atlantic pollock are found in the Northwest Atlantic Ocean and are most common on the western Scotian Shelf and in the Gulf of Maine.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Atlantic Pollock",
             "scientific_name": "Pollachius virens",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -1582,8 +1546,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_pollack.png",
                 "alt": "Illustration of an Atlantic Pollock",
                 "title": "Atlantic Pollock"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1631,8 +1594,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_yellowfin_tuna_0.png",
                 "alt": "Atlantic Yellowfin Tuna illustration",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1640,7 +1602,7 @@
         "pk": 38,
         "fields": {
             "location": "<ul>\n<li>Longfin squid are found from Newfoundland to the Gulf of Venezuela.</li>\n<li>In the northwest Atlantic Ocean, longfin squid are most abundant between Georges Bank and Cape Hatteras, North Carolina.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "Longfin Inshore Squid",
             "scientific_name": "Doryteuthis (Amerigo) pealeii",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -1680,8 +1642,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/longfin_squid.png",
                 "alt": "Longfin Squid illustration",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1729,8 +1690,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/porgy_scup.png",
                 "alt": "Scup illustration",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1768,8 +1728,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pink_shrimp.png",
                 "alt": "Pink shrimp",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1807,8 +1766,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/white_shrimp.png",
                 "alt": "White shrimp",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1816,7 +1774,7 @@
         "pk": 42,
         "fields": {
             "location": "<ul>\n<li>Silver hake are found in the Northwest Atlantic Ocean and range primarily from Newfoundland to South Carolina.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Silver Hake",
             "scientific_name": "Merluccius bilinearis",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -1851,8 +1809,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/silver_hake.png",
                 "alt": "Silver Hake illustration",
                 "title": "Silver Hake"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1860,7 +1817,7 @@
         "pk": 43,
         "fields": {
             "location": "<ul>\n<li>Skipjack tuna are found in tropical and subtropical oceans around the world, including the waters around the U.S. Pacific Islands and the U.S. West Coast.&nbsp;</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Pacific Skipjack Tuna",
             "scientific_name": "Katsuwonus pelamis",
             "noaa_fisheries_region": "West Coast, Pacific Islands",
@@ -1900,8 +1857,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_skipjack_tuna.png",
                 "alt": "Pacific Skipjack Tuna illustration",
                 "title": "Pacific Skipjack Tuna"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1909,7 +1865,7 @@
         "pk": 44,
         "fields": {
             "location": "<ul>\n<li>Swordfish are found around the world in tropical, temperate, and sometimes cold waters of the Atlantic, Indian, and Pacific Oceans.</li>\n<li>They are found in the Gulf Stream of the Western North Atlantic, extending north into the Grand Banks of Newfoundland.</li>\n<li>North Atlantic swordfish annually migrate thousands of miles along the eastern seaboard of the United States and Canada and also in the eastern Atlantic along Africa and Europe.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "North Atlantic Swordfish",
             "scientific_name": "Xiphias gladius",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -1949,8 +1905,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/north_atlantic_swordfish.png",
                 "alt": "North Atlantic Swordfish illustration",
                 "title": "North Atlantic Swordfish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -1958,7 +1913,7 @@
         "pk": 45,
         "fields": {
             "location": "<ul>\n<li>Brown rock shrimp are found from Norfolk, Virginia, south through the Gulf of Mexico to Mexico’s Yucatan Peninsula.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Brown Rock Shrimp",
             "scientific_name": "Sicyonia brevirostris",
             "noaa_fisheries_region": "Southeast",
@@ -1988,8 +1943,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/rock_shrimp.png",
                 "alt": "Illustration of a Brown Rock Shrimp",
                 "title": "Brown Rock Shrimp"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2037,8 +1991,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/yellowtail_flounder.png",
                 "alt": "Yellowtail flounder",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2086,8 +2039,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/winter_flounder.png",
                 "alt": "Winter flounder",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2135,8 +2087,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/coho_salmon.png",
                 "alt": "Coho Salmon illustration",
                 "title": "Coho Salmon"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2144,7 +2095,7 @@
         "pk": 49,
         "fields": {
             "location": "<ul>\n<li>Chum salmon are the most widely distributed of all the Pacific salmon.</li>\n<li>They are found throughout the North Pacific Ocean and range from the Arctic coast of Canada and throughout the northern coastal regions of North America and Asia.</li>\n<li>In the United States, chum salmon are found throughout Alaska and as far south as Yaquina Bay, Oregon, on the West Coast.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Chum Salmon",
             "scientific_name": "Oncorhynchus keta",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -2179,8 +2130,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/chum_salmon.png",
                 "alt": "Chum Salmon illustration",
                 "title": "Chum Salmon"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2188,7 +2138,7 @@
         "pk": 50,
         "fields": {
             "location": "<ul>\n<li>Brown shrimp are found in the western north Atlantic from Martha’s Vineyard, Massachusetts, to the Florida Keys and along the Gulf Coast to northwestern Yucatan in Mexico.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Brown Shrimp",
             "scientific_name": "Farfantepenaeus aztecus ",
             "noaa_fisheries_region": "Southeast",
@@ -2228,8 +2178,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/brown_shrimp_0.png",
                 "alt": "Brown Shrimp illustration",
                 "title": "Brown Shrimp"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2237,7 +2186,7 @@
         "pk": 51,
         "fields": {
             "location": "<ul>\n<li>Pacific mackerel are found from southeastern Alaska to Mexico but are most common south of Point Conception, California.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Pacific Mackerel",
             "scientific_name": "Scomber japonicus",
             "noaa_fisheries_region": "West Coast",
@@ -2277,8 +2226,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pacific_mackeral.png",
                 "alt": "Illustration of a Pacific Mackerel",
                 "title": "Pacific Mackerel"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2286,7 +2234,7 @@
         "pk": 52,
         "fields": {
             "location": "<ul>\n<li>Most of the U.S. catch of Pacific bluefin tuna is within about 100 nautical miles of the California coast.&nbsp;</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "Pacific Bluefin Tuna",
             "scientific_name": "Thunnus orientalis",
             "noaa_fisheries_region": "West Coast, Pacific Islands",
@@ -2321,8 +2269,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_bluefin_tuna.png",
                 "alt": "Illustration of a Pacific Bluefin Tuna",
                 "title": "Pacific Bluefin Tuna"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2330,7 +2277,7 @@
         "pk": 53,
         "fields": {
             "location": "<ul>\n<li>Opah are found in tropical and temperate waters around the world.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Opah",
             "scientific_name": "Lampris guttatus, Lampris spp.",
             "noaa_fisheries_region": "Pacific Islands",
@@ -2370,8 +2317,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/opah.png",
                 "alt": "Illustration of an Opah",
                 "title": "Opah"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2379,7 +2325,7 @@
         "pk": 54,
         "fields": {
             "location": "<ul>\n<li>Atlantic herring are found on both sides of the North Atlantic. In the western North Atlantic, they are found from Labrador to Cape Hatteras, North Carolina.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Atlantic Herring",
             "scientific_name": "Clupea harengus",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -2419,8 +2365,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_herring.png",
                 "alt": "Atlantic Herring illustration",
                 "title": "Atlantic Herring"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2428,7 +2373,7 @@
         "pk": 55,
         "fields": {
             "location": "<p>Vermilion snapper are found in the Atlantic Ocean from Cape Hatteras, North Carolina, to southeastern Brazil, including the West Indies, Gulf of Mexico, and Caribeean Sea.</p>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Vermilion Snapper",
             "scientific_name": "Rhomboplites aurorubens",
             "noaa_fisheries_region": "Southeast",
@@ -2468,8 +2413,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/vermilion_snapper.png",
                 "alt": "Vermillion snapper",
                 "title": "Vermillion snapper"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2517,8 +2461,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/BlackTip_Shark_NB_W-fishwatch.png",
                 "alt": "Atlantic Blacktip Shark image",
                 "title": "Atlantic Blacktip Shark"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2566,8 +2509,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/haddock.png",
                 "alt": "Illustration of a Haddock",
                 "title": "Haddock"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2615,8 +2557,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/chinook_salmon.png",
                 "alt": "Illustration of a Chinook Salmon",
                 "title": "Chinook Salmon"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2624,7 +2565,7 @@
         "pk": 59,
         "fields": {
             "location": "<ul>\n<li>Bigeye tuna are found throughout the Pacific, Atlantic, and Indian Oceans, including the waters around the U.S. Pacific Islands and off southern California.&nbsp;</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Pacific Bigeye Tuna",
             "scientific_name": "Thunnus obesus",
             "noaa_fisheries_region": "West Coast, Pacific Islands",
@@ -2664,8 +2605,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_bigeye_tuna.png",
                 "alt": "Pacific bigeye tuna",
                 "title": "Pacific bigeye tuna"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2673,7 +2613,7 @@
         "pk": 60,
         "fields": {
             "location": "<ul>\n<li>Off the East Coast, Atlantic shortfin mako sharks are found from New England to Florida, in the Gulf of Mexico from Florida to Texas, and in the Caribbean Sea.</li>\n<li>They are highly migratory and can travel across&nbsp;entire oceans.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Atlantic Shortfin Mako Shark",
             "scientific_name": "Isurus oxyrinchus",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -2713,8 +2653,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_shortfin_mako_shark_0.png",
                 "alt": "Illustration of an Atlantic Shortfin Mako Shark",
                 "title": "Atlantic Shortfin Mako Shark"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2762,8 +2701,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_common_thresher_shark_0.png",
                 "alt": "Illustration of an Atlantic Common Thresher Shark",
                 "title": "Atlantic Common Thresher Shark"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2771,7 +2709,7 @@
         "pk": 62,
         "fields": {
             "location": "<ul>\n<li>In the United States, yellowfin sole are found in the North Pacific Ocean from British Columbia up to the Chukchi Sea (north of the Bering Sea).</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Yellowfin Sole",
             "scientific_name": "Limanda aspera",
             "noaa_fisheries_region": "Alaska",
@@ -2811,8 +2749,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/yellowfin_sole.png",
                 "alt": "Yellowfin Sole",
                 "title": "Yellowfin Sole"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2820,7 +2757,7 @@
         "pk": 63,
         "fields": {
             "location": "<ul>\n<li>Yellowfin tuna are found in tropical and subtropical oceans around the world, including the waters around the U.S. Pacific Islands and off southern California.&nbsp;</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Pacific Yellowfin Tuna",
             "scientific_name": "Thunnus albacares",
             "noaa_fisheries_region": "West Coast, Pacific Islands",
@@ -2855,8 +2792,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_yellowfin_tuna.png",
                 "alt": "Pacific Yellowfin Tuna",
                 "title": "Pacific Yellowfin Tuna"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2899,8 +2835,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pacific_whiting.png",
                 "alt": "Illustration of a Pacific Whiting",
                 "title": "Pacific Whiting"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2908,7 +2843,7 @@
         "pk": 65,
         "fields": {
             "location": "<ul>\n<li>Spanish mackerel is found off the Atlantic coast of the United States and in the Gulf of Mexico.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Spanish Mackerel",
             "scientific_name": "Scomberomorus maculatus",
             "noaa_fisheries_region": "Southeast",
@@ -2938,8 +2873,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/spanish_mackerel_0.png",
                 "alt": "Spanish mackerel",
                 "title": "Spanish mackerel"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2982,8 +2916,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/rock_sole.png",
                 "alt": "Rock sole",
                 "title": "Rock sole"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -2991,7 +2924,7 @@
         "pk": 67,
         "fields": {
             "location": "<ul>\n<li>Wahoo are found in tropical and subtropical waters around the world.</li>\n<li>They are found in tropical waters year-round but are also found in higher latitudes during the summer.&nbsp;</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Pacific Wahoo",
             "scientific_name": "Acanthocybium solanderi",
             "noaa_fisheries_region": "West Coast, Pacific Islands",
@@ -3016,8 +2949,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_wahoo_0.png",
                 "alt": "Illustration of a Pacific Wahoo",
                 "title": "Pacific Wahoo"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3065,8 +2997,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/king_mackerel.png",
                 "alt": "Illustration of King Mackarel",
                 "title": "King Mackarel"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3109,8 +3040,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/greenland_turbot.png",
                 "alt": "Illustration of a Greenland Turbot",
                 "title": "Greenland Turbot"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3118,7 +3048,7 @@
         "pk": 70,
         "fields": {
             "location": "<ul>\n<li>Market squid are found from the tip of Baja California to southeastern Alaska, but are most abundant between Punta Eugenia in Baja California and Monterey Bay, California.&nbsp;</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "California Market Squid",
             "scientific_name": "Doryteuthis (Loligo) opalescens",
             "noaa_fisheries_region": "West Coast",
@@ -3153,8 +3083,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/california_market_squid.png",
                 "alt": "Illustration of a California Market Squid",
                 "title": "California Market Squid"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3162,7 +3091,7 @@
         "pk": 71,
         "fields": {
             "location": "<ul>\n<li>Wahoo are found in tropical and subtropical waters around the world.</li>\n<li>They are found in tropical waters year-round but are also found in higher latitudes during the summer.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Atlantic Wahoo",
             "scientific_name": "Acanthocybium solandri",
             "noaa_fisheries_region": "Southeast",
@@ -3192,8 +3121,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_wahoo.png",
                 "alt": "Illustration of an Atlantic Wahoo",
                 "title": "Atlantic Wahoo"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3236,8 +3164,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/gag_grouper.png",
                 "alt": "Gag grouper",
                 "title": "Gag grouper"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3245,7 +3172,7 @@
         "pk": 73,
         "fields": {
             "location": "<ul>\n<li>Flathead sole are found from Alaska south along the west coast of North America to northern California.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Flathead Sole",
             "scientific_name": "Hippoglossoides elassodon",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -3275,8 +3202,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/flathead_sole.png",
                 "alt": "Flathead sole",
                 "title": "Flathead sole"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3284,7 +3210,7 @@
         "pk": 74,
         "fields": {
             "location": "<ul>\n<li>Summer flounder are found in the Atlantic Ocean from Nova Scotia to the east coast of Florida.</li>\n<li>In U.S. waters, summer flounder are most common in the mid-Atlantic region from Cape Cod, Massachusetts, to Cape Fear, North Carolina.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "Summer Flounder",
             "scientific_name": "Paralichthys dentatus",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -3324,8 +3250,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/summer_flounder.png",
                 "alt": "Summer Flounder",
                 "title": "Summer Flounder"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3333,7 +3258,7 @@
         "pk": 75,
         "fields": {
             "location": "<ul>\n<li>Rex sole are found from central Baja California to the Bering Sea.&nbsp;&nbsp;</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Rex Sole",
             "scientific_name": "Glyptocephalus zachirus",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -3373,8 +3298,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/rex_sole_0.png",
                 "alt": "Rex Sole image",
                 "title": "Rex Sole"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3422,8 +3346,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/red_grouper.png",
                 "alt": "Red Grouper",
                 "title": "Red Grouper"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3431,7 +3354,7 @@
         "pk": 77,
         "fields": {
             "location": "<ul>\n<li>English sole are found off the west coast of North America from the Bering Sea and Aleutian Islands to central Baja California.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "English Sole",
             "scientific_name": "Parophrys vetulus",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -3471,8 +3394,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/english_sole.png",
                 "alt": "English sole",
                 "title": "English sole"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3480,7 +3402,7 @@
         "pk": 78,
         "fields": {
             "location": "<ul>\n<li>Dover sole is found in the Pacific Ocean from the Bering Sea and western Aleutian Islands to southern Baja California.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Dover Sole",
             "scientific_name": "Microstomus pacificus",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -3520,8 +3442,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/dover_sole_1.png",
                 "alt": "Dover sole illustration.",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3569,8 +3490,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/carribean_spiny_lobster.png",
                 "alt": "Carribean spiny lobster",
                 "title": "Carribean spiny lobster"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3578,7 +3498,7 @@
         "pk": 80,
         "fields": {
             "location": "<ul>\n<li>Albacore tuna are found in tropical and warm temperate waters of the Pacific, Atlantic, and Indian Oceans.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Pacific Albacore Tuna",
             "scientific_name": "Thunnus alalunga",
             "noaa_fisheries_region": "West Coast, Pacific Islands",
@@ -3618,8 +3538,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_albacore_tuna.png",
                 "alt": "Illustration of a Pacific Albacore Tuna",
                 "title": "Pacific Albacore Tuna"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3667,8 +3586,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/wreckfish.png",
                 "alt": "Wreckfish",
                 "title": "Wreckfish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3716,8 +3634,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/queen_conch_0.png",
                 "alt": "Queen conch",
                 "title": "Queen conch"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3725,7 +3642,7 @@
         "pk": 83,
         "fields": {
             "location": "<ul>\n<li>In North American waters, red king crabs are found in the Bering Sea and Aleutian Islands, along the coast of the Gulf of Alaska, and south to British Columbia, Canada.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Red King Crab",
             "scientific_name": "Paralithodes camtschaticus",
             "noaa_fisheries_region": "Alaska",
@@ -3765,8 +3682,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/red_king_crab.png",
                 "alt": "Red king crab",
                 "title": "Red king crab"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3774,7 +3690,7 @@
         "pk": 84,
         "fields": {
             "location": "<ul>\n<li>Pacific spiny dogfish are found from the Bering Sea to Baja California.</li>\n<li>They are more common off the U.S. West Coast and British Columbia than in the Gulf of Alaska or the Bering Sea and Aleutian Islands region.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Pacific Spiny Dogfish",
             "scientific_name": "Squalus suckleyi",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -3809,8 +3725,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_spiny_dogfish_shark_0.png",
                 "alt": "Illustration of a Pacific Spiny Dogfish.",
                 "title": "Pacific Spiny Dogfish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3818,7 +3733,7 @@
         "pk": 85,
         "fields": {
             "location": "<ul>\n<li>Pacific halibut are found in coastal waters from Santa Barbara, California, to Nome, Alaska.</li>\n<li>They are most common in the central Gulf of Alaska, particularly near Kodiak Island.&nbsp;</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Pacific Halibut",
             "scientific_name": "Hippoglossus stenolepis",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -3858,8 +3773,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pacific_halibut.png",
                 "alt": "Illustration of a Pacific Halibut",
                 "title": "Pacific Halibut"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3907,8 +3821,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_spiny_dogfish_shark.png",
                 "alt": "Atlantic spiny dogfish",
                 "title": "Atlantic spiny dogfish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3956,8 +3869,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/arrowtooth_flounder_0.png",
                 "alt": "Arrowtooth flounder",
                 "title": "Arrowtooth flounder"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -3965,7 +3877,7 @@
         "pk": 88,
         "fields": {
             "location": "<ul>\n<li>Alaska snow crabs are found off the coast of Alaska in the Bering, Beaufort, and Chukchi Seas.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Alaska Snow Crab",
             "scientific_name": "Chionoecetes opilio",
             "noaa_fisheries_region": "Alaska",
@@ -4005,8 +3917,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/alaska_snow_crab.png",
                 "alt": "Alaska snow crab",
                 "title": "Alaska snow crab"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4054,8 +3965,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/hard_clam_ocean_quahog.png",
                 "alt": "Hard clam/ocean quahog",
                 "title": "Hard clam/ocean quahog"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4063,7 +3973,7 @@
         "pk": 90,
         "fields": {
             "location": "<ul>\n<li>Gray triggerfish are found in the western Atlantic Ocean from Nova Scotia south to Argentina, including Bermuda and the Gulf of Mexico.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Gray Triggerfish",
             "scientific_name": "Balistes capriscus",
             "noaa_fisheries_region": "Southeast",
@@ -4093,8 +4003,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/gray_triggerfish.png",
                 "alt": "Gray triggerfish",
                 "title": "Gray triggerfish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4142,8 +4051,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/bluefish.png",
                 "alt": "Bluefish",
                 "title": "Bluefish"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4151,7 +4059,7 @@
         "pk": 92,
         "fields": {
             "location": "<ul>\n<li>Along the U.S. East Coast from Cape Cod to the Gulf of Mexico.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Black Sea Bass",
             "scientific_name": "Centropristis striata",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -4191,8 +4099,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/black_sea_bass_0.png",
                 "alt": "Black sea bass",
                 "title": "Black sea bass"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4200,7 +4107,7 @@
         "pk": 93,
         "fields": {
             "location": "<ul>\n<li>Petrale sole are found from Alaska to Coronado Island, Baja California.</li>\n<li>They are rare north and west of southeast Alaska and in the interior waters of British Columbia.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 1,
             "species_name": "Petrale Sole",
             "scientific_name": "Eopsetta jordani",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -4240,8 +4147,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/petrale_sole.png",
                 "alt": "Illustration of a petrale sole",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4249,7 +4155,7 @@
         "pk": 94,
         "fields": {
             "location": "<ul>\n<li>Greater amberjack are found in the Atlantic and Pacific Oceans.</li>\n<li>In the western Atlantic, they are found from Nova Scotia to Brazil, including the Gulf of Mexico and the Caribbean.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Greater Amberjack",
             "scientific_name": "Seriola dumerili",
             "noaa_fisheries_region": "Southeast",
@@ -4279,8 +4185,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/greater_amberjack.png",
                 "alt": "Illustration of a Greater Amberjack.",
                 "title": "Greater Amberjack"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4328,8 +4233,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_common_thresher_shark.png",
                 "alt": "Illustration of a Pacific Common Thresher Shark",
                 "title": "Pacific Common Thresher Shark"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4337,7 +4241,7 @@
         "pk": 96,
         "fields": {
             "location": "<ul>\n<li>Pacific cod are found in the coastal North Pacific Ocean, from the Bering Sea to Southern California in the east and to the Sea of Japan in the west.</li>\n<li>They are less common in Central California and are rare in Southern California.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Pacific Cod",
             "scientific_name": "Gadus macrocephalus",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -4377,8 +4281,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pacific_cod.png",
                 "alt": "Illustration of a pacific cod",
                 "title": "Pacific Cod"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4386,7 +4289,7 @@
         "pk": 97,
         "fields": {
             "location": "<ul>\n<li>Blue marlin live throughout tropical and subtropical waters of the Indian, Pacific, and Atlantic Oceans.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Pacific Blue Marlin",
             "scientific_name": "Makaira nigricans",
             "noaa_fisheries_region": "Pacific Islands",
@@ -4411,8 +4314,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pacific_blue_marlin.png",
                 "alt": "Illustration of a pacific blue marlin",
                 "title": "Pacific Blue Marlin"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4420,7 +4322,7 @@
         "pk": 98,
         "fields": {
             "location": "<ul>\n<li>Northern anchovies are found from British Columbia to Baja California and in the Gulf of California.</li>\n<li>Northern anchovies are divided into two sub-populations in the United States:\n<ul>\n<li>The northern sub-population is found off Oregon and Washington.</li>\n<li>The central sub-population ranges from California to Baja California, Mexico.</li>\n</ul>\n</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Northern Anchovy",
             "scientific_name": "Engraulis mordax",
             "noaa_fisheries_region": "West Coast",
@@ -4460,8 +4362,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/northern_anchovy.png",
                 "alt": "Illustration of a northern anchovy",
                 "title": "Northern Anchovy"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4509,8 +4410,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/lingcod.png",
                 "alt": "Illustration of a lingcod",
                 "title": "Illustration of Lingcod"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4558,8 +4458,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_striped_bass_0.png",
                 "alt": "Illustration of Atlantic Striped Bass",
                 "title": "Illustration of Atlantic Striped Bass"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4607,8 +4506,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_surfclam_0.png",
                 "alt": "Atlantic surfclam",
                 "title": "Atlantic surfclam"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4616,7 +4514,7 @@
         "pk": 102,
         "fields": {
             "location": "<ul>\n<li>In the eastern Pacific, they’re found from the Columbia River to Chile.&nbsp;</li>\n<li>Off the West Coast, they’re most common off California.&nbsp;</li>\n<li>In the Indo-Pacific, they are found from East Africa and the Red Sea to Hawaii.&nbsp;</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 3,
             "species_name": "Pacific Shortfin Mako Shark",
             "scientific_name": "Isurus oxyrinchus",
             "noaa_fisheries_region": "West Coast",
@@ -4656,8 +4554,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_shortfin_mako_shark.png",
                 "alt": "Pacific Shortfin Mako Shark",
                 "title": "Pacific Shortfin Mako Shark"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4665,7 +4562,7 @@
         "pk": 103,
         "fields": {
             "location": "<ul>\n<li>Pacific ocean perch are found off the coast of North America from California to the Western Aleutian Islands in Alaska.&nbsp;</li>\n<li>They are less commonly found south of Oregon and are particularly rare in Southern California.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Pacific Ocean Perch",
             "scientific_name": "Sebastes alutus",
             "noaa_fisheries_region": "West Coast, Alaska",
@@ -4705,8 +4602,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/pacific_ocean_perch.png",
                 "alt": "Pacific Ocean Perch",
                 "title": "Pacific Ocean Perch"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4714,7 +4610,7 @@
         "pk": 104,
         "fields": {
             "location": "<ul>\n<li>Pacific mahimahi are found in the Pacific and Western Pacific and are caught from California to Hawaii and the U.S. Pacific Island territories.</li>\n<li>Most of the U.S. commercial harvest of Pacific mahimahi comes from Hawaii.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Pacific Mahimahi",
             "scientific_name": "Coryphaena hippurus",
             "noaa_fisheries_region": "West Coast, Pacific Islands",
@@ -4754,8 +4650,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_mahimahi_dolphinfish.png",
                 "alt": "Pacific MahiMahi",
                 "title": "Pacific MahiMahi"
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4763,7 +4658,7 @@
         "pk": 105,
         "fields": {
             "location": "<ul>\n<li>Widow rockfish are found between the Gulf of Alaska and northern Baja California.</li>\n<li>Adults are rarely seen in California and are most abundant from British Columbia to northern California.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Widow Rockfish",
             "scientific_name": "Sebastes entomelas",
             "noaa_fisheries_region": "West Coast",
@@ -4798,8 +4693,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/widow_rockfish.png",
                 "alt": "Widow Rockfish",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4807,7 +4701,7 @@
         "pk": 106,
         "fields": {
             "location": "<ul>\n<li>In the western Atlantic, bluefin tuna are found from Newfoundland to the Gulf of Mexico.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Western Atlantic Bluefin Tuna",
             "scientific_name": "Thunnus thynnus",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -4847,8 +4741,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_bluefin_tuna_0.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4891,8 +4784,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/tilefish.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4900,7 +4792,7 @@
         "pk": 108,
         "fields": {
             "location": "<ul>\n<li>Red snapper are generally found at 30 to 620 feet deep in the Gulf of Mexico and along the eastern coasts of North America, Central America, and northern South America.</li>\n<li>They are rare north of the Carolinas.</li>\n</ul>\n",
-            "rarity": 1,
+            "rarity": 2,
             "species_name": "Red Snapper",
             "scientific_name": "Lutjanus campechanus",
             "noaa_fisheries_region": "Southeast",
@@ -4940,8 +4832,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/red_snapper.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -4989,8 +4880,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/sockeye_salmon.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -5038,8 +4928,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/sablefish.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -5047,7 +4936,7 @@
         "pk": 111,
         "fields": {
             "location": "<ul>\n<li>Alaska pollock are found throughout the North Pacific Ocean but are most common in the Bering Sea.</li>\n</ul>\n",
-            "rarity": 2,
+            "rarity": 3,
             "species_name": "Alaska Pollock",
             "scientific_name": "Gadus chalcogrammus",
             "noaa_fisheries_region": "Alaska",
@@ -5087,8 +4976,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/alaska_pollock.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -5136,8 +5024,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/monkfish.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -5185,8 +5072,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_mahimahi_dolphinfish_0.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -5194,7 +5080,7 @@
         "pk": 114,
         "fields": {
             "location": "<ul>\n<li>In U.S. waters, cobia are most abundant from Virginia south through the Gulf of Mexico.</li>\n<li>Cobia migrate seasonally in the Atlantic and Gulf of Mexico.</li>\n<li>Along the Atlantic coast, they move south and offshore toward warmer waters during the late fall and winter.</li>\n<li>Cobia found in the northeastern Gulf of Mexico during the summer move to south Florida waters in the winter, possibly spending the winter near the Florida Keys.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 1,
             "species_name": "Cobia",
             "scientific_name": "Rachycentron canadum",
             "noaa_fisheries_region": "Greater Atlantic, Southeast",
@@ -5234,8 +5120,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/cobia.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     },
     {
@@ -5243,7 +5128,7 @@
         "pk": 115,
         "fields": {
             "location": "<ul>\n<li>In the Northwest Atlantic, cod range from Greenland to Cape Hatteras, North Carolina.</li>\n<li>In U.S. waters, cod is most common on Georges Bank and in the western Gulf of Maine.</li>\n</ul>\n",
-            "rarity": 3,
+            "rarity": 2,
             "species_name": "Atlantic Cod",
             "scientific_name": "Gadus morhua",
             "noaa_fisheries_region": "Greater Atlantic",
@@ -5283,8 +5168,7 @@
                 "src": "https://www.fishwatch.gov/sites/default/files/atlantic_cod.png",
                 "alt": "",
                 "title": ""
-            },
-            "caught": false
+            }
         }
     }
 ]
