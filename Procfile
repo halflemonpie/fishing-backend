@@ -1,1 +1,1 @@
-web: gunicorn fishing_django.wsgi
+web: gunicorn fishing_django.wsgi --log-file -

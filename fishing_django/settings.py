@@ -52,7 +52,10 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'whitenoise.runserver_nostatic',
+    'django_extensions',
 ]
+
+WHITENOISE_USE_FINDERS = True
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -69,7 +72,7 @@ MIDDLEWARE = [
 
 ]
 
-CORS_ALLOWED_ORIGINS =  ["http://localhost:3000"]
+CORS_ALLOWED_ORIGINS =  ["http://localhost:3000", 'http://127.0.0.1',]
 
 ROOT_URLCONF = 'fishing_django.urls'
 
@@ -105,7 +108,8 @@ DATABASES = {
     }
     # 'default': dj_database_url.config(conn_max_age=600)
 }
-
+db_from_env = dj_database_url.config()
+DATABASES['default'].update(db_from_env)
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
@@ -142,11 +146,13 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT=os.path.join(BASE_DIR, "static/")
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-STATIC_ROOT=os.path.join(BASE_DIR, "static/")
+django_heroku.settings(locals())
+
 
